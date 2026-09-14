@@ -4,17 +4,14 @@
 
 Computer Science graduate from Universitas Pendidikan Ganesha (GPA 3.80/4.00), focused on software development, machine learning, and computer vision. Experience ranges from internal business applications to image-based ML solutions.
 
-[Portfolio](https://hanuraporto90.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/made-hanura/) · [GitHub](https://github.com/Hanura-Made)
+[Portfolio](https://www.hanura.site/) · [LinkedIn](https://www.linkedin.com/in/made-hanura/) · [GitHub](https://github.com/Hanura-Made)
 
 ---
-
 ## About
 
 - Computer Science graduate from Universitas Pendidikan Ganesha
 - Focused on software development, with growing experience in machine learning and computer vision
 - Comfortable turning requirements into working, deployed applications
-- Currently strengthening backend, deployment, and applied AI skills
-
 ---
 
 ## Tech Stack
