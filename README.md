@@ -68,16 +68,8 @@ Developed an internal Employee Exit Permission System, covering the full process
 
 Backend Development · REST APIs · Docker & Deployment · Machine Learning · Computer Vision · LLM & RAG Applications · Clean Code & Software Practices
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hanura-Made&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanura-Made&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
-
----
+GitHub Activity
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Hanura-Made&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hanura-Made&layout=compact&hide_border=true&theme=transparent" height="165"/> </p>
 
 ## Contact
 
