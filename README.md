@@ -70,11 +70,3 @@ Backend Development · REST APIs · Docker & Deployment · Machine Learning · C
 
 GitHub Activity
 <p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Hanura-Made&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hanura-Made&layout=compact&hide_border=true&theme=transparent" height="165"/> </p>
-
-## Contact
-
-Open to opportunities to learn, contribute, and grow as a software developer.
-
-**Portfolio:** [hanuraporto90.vercel.app](https://hanuraporto90.vercel.app/)
-**LinkedIn:** [linkedin.com/in/made-hanura](https://www.linkedin.com/in/made-hanura/)
-**GitHub:** [github.com/Hanura-Made](https://github.com/Hanura-Made)
