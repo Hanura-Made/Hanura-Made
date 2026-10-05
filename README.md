@@ -6,31 +6,6 @@ Computer Science graduate (GPA 3.80) focused on building practical software and 
 
 [Portfolio](https://www.hanura.site/) · [LinkedIn](https://www.linkedin.com/in/made-hanura/)
 
----
-
-## Experience
-
-**Software Developer Intern — PT Tirta Investama (AQUA)** | *Aug 2025 – Dec 2025*
-Engineered an Employee Exit Permission System from end-to-end. Digitized manual paper-based approvals into a secure web application with role-based access and automated Telegram notifications. 
-
----
-
-## Featured Projects
-
-- **Periocular Gender Classification** 
-  A computer vision model utilizing Vision Transformer (ViT-B/16) to classify gender purely from eye-region images. Achieved 96.79% accuracy on the secondary dataset. 
-  *Tech: Python, PyTorch, OpenCV*
-
-- **Coffee Bean Roasting Classification** 
-  An ML experiment extracting HSV color features to classify coffee roasting levels using a Naive Bayes classifier with 83.48% accuracy. 
-  *Tech: Python, OpenCV, Scikit-learn, Streamlit*
-  
-- **Employee Exit Permission System** 
-  Internal HR portal for tracking and approving employee exit requests.
-  *Tech: Laravel, PHP, MySQL, Vite, Telegram API*
-
----
-
 ## Tech Stack
 
 - **Languages:** Python, JavaScript, PHP, SQL, Bash
