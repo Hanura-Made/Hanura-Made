@@ -1,72 +1,47 @@
 # Hanura
 
-**Computer Science Graduate · Software Developer**
+**Software Developer | Machine Learning & Computer Vision**
 
-Computer Science graduate from Universitas Pendidikan Ganesha (GPA 3.80/4.00), focused on software development, machine learning, and computer vision. Experience ranges from internal business applications to image-based ML solutions.
+Computer Science graduate (GPA 3.80) focused on building practical software and intelligent systems. Experienced in transforming manual workflows into digital solutions and developing image-based ML models.
 
-[Portfolio](https://www.hanura.site/) · [LinkedIn](https://www.linkedin.com/in/made-hanura/) · [GitHub](https://github.com/Hanura-Made)
-
----
-## About
-
-- Computer Science graduate from Universitas Pendidikan Ganesha
-- Focused on software development, with growing experience in machine learning and computer vision
-- Comfortable turning requirements into working, deployed applications
----
-
-## Tech Stack
-
-**Languages:** Python, JavaScript, SQL, HTML5, CSS3, Bash
-
-**Frameworks & Libraries:** React, Laravel, PyTorch, OpenCV, Scikit-learn
-
-**Tools:** Git, GitHub, VS Code, Figma, Google Colab, Jupyter, Streamlit
+[Portfolio](https://www.hanura.site/) · [LinkedIn](https://www.linkedin.com/in/made-hanura/)
 
 ---
 
-## Featured Projects
+## 💼 Experience
 
-### Employee Exit Permission System
-Internal web application built during an internship to digitize employee exit permission requests and approvals.
-
-- Analyzed requirements and designed the system workflow
-- Built the application with Laravel and Vite
-- Implemented role-based access for employees, supervisors, and administrators
-- Integrated database management for permission requests
-- Added Telegram notifications for the approval workflow
-- Handled testing, debugging, and documentation
-
-**Tech:** Laravel, PHP, MySQL, Vite, Telegram Bot API
-
-### Periocular Gender Classification
-Computer vision project classifying gender from periocular (eye-region) images, targeting scenarios where most facial features are obscured. Built on a pretrained Vision Transformer (ViT-B/16) and evaluated on secondary and primary datasets.
-
-- 96.79% test accuracy on the secondary dataset
-- 62.50% accuracy on the primary dataset
-
-**Tech:** Python, PyTorch, ViT-B/16, OpenCV
-
-### Coffee Bean Roasting Classification
-Machine learning project classifying coffee bean roasting levels (Green, Light, Medium, Dark) using HSV color features and a Naive Bayes classifier.
-
-- 83.48% accuracy
-
-**Tech:** Python, OpenCV, Scikit-learn, Streamlit
+**Software Developer Intern — PT Tirta Investama (AQUA)** | *Aug 2025 – Dec 2025*
+Engineered an Employee Exit Permission System from end-to-end. Digitized manual paper-based approvals into a secure web application with role-based access and automated Telegram notifications. 
 
 ---
 
-## Experience
+## 🚀 Featured Projects
 
-**Software Developer Intern** — PT Tirta Investama (AQUA)
-*August 2025 – December 2025*
+- **Periocular Gender Classification** 
+  A computer vision model utilizing Vision Transformer (ViT-B/16) to classify gender purely from eye-region images. Achieved 96.79% accuracy on the secondary dataset. 
+  *Tech: Python, PyTorch, OpenCV*
 
-Developed an internal Employee Exit Permission System, covering the full process from requirements analysis and system design to implementation, testing, debugging, and documentation.
+- **Coffee Bean Roasting Classification** 
+  An ML experiment extracting HSV color features to classify coffee roasting levels using a Naive Bayes classifier with 83.48% accuracy. 
+  *Tech: Python, OpenCV, Scikit-learn, Streamlit*
+  
+- **Employee Exit Permission System** 
+  Internal HR portal for tracking and approving employee exit requests.
+  *Tech: Laravel, PHP, MySQL, Vite, Telegram API*
 
 ---
 
-## Currently Learning
+## 🛠 Tech Stack
 
-Backend Development · REST APIs · Docker & Deployment · Machine Learning · Computer Vision · LLM & RAG Applications · Clean Code & Software Practices
+- **Languages:** Python, JavaScript, PHP, SQL, Bash
+- **Frameworks & ML:** React, Laravel, PyTorch, OpenCV, Scikit-learn
+- **Tools:** Git, GitHub, VS Code, Figma, Google Colab
 
-GitHub Activity
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Hanura-Made&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hanura-Made&layout=compact&hide_border=true&theme=transparent" height="165"/> </p>
+**🌱 Currently Exploring:** Backend Architecture, REST APIs, Docker, LLM & RAG Applications, Clean Code.
+
+---
+
+<p align="center"> 
+  <img src="https://github-stats-extended.vercel.app/api?username=Hanura-Made&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/> 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hanura-Made&layout=compact&hide_border=true&theme=transparent" height="165"/> 
+</p>
