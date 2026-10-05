@@ -8,14 +8,14 @@ Computer Science graduate (GPA 3.80) focused on building practical software and 
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Developer Intern — PT Tirta Investama (AQUA)** | *Aug 2025 – Dec 2025*
 Engineered an Employee Exit Permission System from end-to-end. Digitized manual paper-based approvals into a secure web application with role-based access and automated Telegram notifications. 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **Periocular Gender Classification** 
   A computer vision model utilizing Vision Transformer (ViT-B/16) to classify gender purely from eye-region images. Achieved 96.79% accuracy on the secondary dataset. 
@@ -31,13 +31,13 @@ Engineered an Employee Exit Permission System from end-to-end. Digitized manual 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Languages:** Python, JavaScript, PHP, SQL, Bash
 - **Frameworks & ML:** React, Laravel, PyTorch, OpenCV, Scikit-learn
 - **Tools:** Git, GitHub, VS Code, Figma, Google Colab
 
-**🌱 Currently Exploring:** Backend Architecture, REST APIs, Docker, LLM & RAG Applications, Clean Code.
+**Currently Exploring:** Backend Architecture, REST APIs, Docker, LLM & RAG Applications, Clean Code.
 
 ---
 
